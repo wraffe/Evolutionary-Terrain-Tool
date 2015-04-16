@@ -1,5 +1,5 @@
 # Evolutionary-Terrain-Tool
-A virtual terrain development tool for novice designers. 
+A virtual terrain development tool for novice designers. Written in Matlab.
 Takes sample heightmap terrains, deconstructs them into patches, a recombines them to form new terrains.
 The user can then use interactive evolution with various patch sizes, overlap sizes, and mutation/crossover rates to
 refine and search for a terrain.
