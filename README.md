@@ -9,3 +9,5 @@ and the thesis "Personalized Procedural Map Generation in Games via Evolutionary
 http://william-raffe.com/
 
 This is an upload of a past project. This project is no longer being updated.
+
+All code was written by William Raffe.
