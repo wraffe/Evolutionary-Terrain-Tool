@@ -10,4 +10,4 @@ http://william-raffe.com/
 
 This is an upload of a past project. This project is no longer being updated.
 
-All code was written by William Raffe.
+All code was written by William Raffe
